@@ -81,12 +81,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-_Add your project screenshots here_
-
----
-
 ## 📁 Project Structure
 
 ```
