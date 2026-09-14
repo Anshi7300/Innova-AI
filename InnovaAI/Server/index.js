@@ -18,7 +18,7 @@ const privateCors =
   cors({
 
     origin: [
-      "http://localhost:5173"
+      "https://innova-ai-7tee.onrender.com"
     ],
 
     credentials: true
